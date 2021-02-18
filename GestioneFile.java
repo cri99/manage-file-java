@@ -1,5 +1,5 @@
 	/*  
-		Classe di utility per caricamento e salvataggio su file dei formati: Json, XML, CSV e Binario.
+		Classe di utility per caricamento e salvataggio su file dei formati: Json, XML, txt e Binario.
     	Realizzata da Cristian Borelli e Giovany Flores.        
    		Gennaio 2017  4A Info.                                  
 	*/
